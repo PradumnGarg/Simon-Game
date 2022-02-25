@@ -6,4 +6,6 @@ increases. (This is only one of the games on the device; there are actually othe
 
 The above repository is my approach to implement the same.USed javascript ,HTML and CSS to achieve the results
 
+Check out the same at:- https://pradumngarg.github.io/Simon-Game/
+
 
